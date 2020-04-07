@@ -1,0 +1,5 @@
+{
+  "http.port": 8082,
+  "url": "jdbc:mysql://localhost:3306/db_kassy",
+  "driver_class": "com.mysql.jdbc.jdbc2.optional.MysqlDataSource"
+}
